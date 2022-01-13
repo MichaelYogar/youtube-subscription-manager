@@ -16,8 +16,14 @@
     "cors": "^2.8.5",
     "dotenv": "^11.0.0",
     "express": "^4.17.2",
+    "express-session": "^1.17.2",
     "googleapis": "^92.0.0",
+    "knex": "^0.95.15",
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.15",
+    "passport": "^0.5.2",
+    "passport-google-oauth20": "^2.0.0",
+    "pg": "^8.7.1",
     "request": "^2.88.2",
     "url-parse": "^1.5.4"
   }
